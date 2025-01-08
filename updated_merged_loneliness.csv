@@ -1,4 +1,4 @@
-ucla_scale,text_lone,loneliness,la,sr,sb,others,score_lone,text_la,score_la,text_sr,score_sr,text_sb,score_sb
+ucla_scale,text_lone,eval_others,la,sr,sb,else,score_lone,text_la,score_la,text_sr,score_sr,text_sb,score_sb
 32.0,ゲーム好き友達とかも、リアル友達以外に居るから孤独感は無い,False,,,,,1.0,恋人は作った事がある。4人もでも、ほとんどが親に別れさせられたり喧嘩とかで別れたけど、ゲームや異世界漫画・アニメに親友そして義妹達が居る（有る）から愛情で満たされてると思う。,4.0,毎日勉強と友人達の喧嘩を収めている,4.0,団体行動とかでは、合わせることができる。,4.0
 26.0,色々なことに興味を持っているから,False,,,,,1.0,恋人とお出かけに行くことが多いから,4.0,親や周りの人に褒められることが多い,4.0,大学で馴染めている感じがする,4.0
 52.0,高校に馴染めなかった,True,,,True,,3.0,高校で友達ができなかった,2.0,高校に受け入れられなかった,2.0,家族に属していると感じている,3.0
